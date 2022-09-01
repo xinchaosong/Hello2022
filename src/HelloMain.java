@@ -25,5 +25,6 @@ public class HelloMain {
 
         int firstNum = 3;
         System.out.println("The number " + firstNum + " is less than " + MAX_NUM);
+        int secondNum = 5;
     }
 }
